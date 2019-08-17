@@ -1,0 +1,14 @@
+{
+    "name": "trinhdinhnam/namtd_composer",
+    "description": "Day la du an cua Nam",
+    "authors": [
+        {
+            "name": "Trinhdinhnam1998",
+            "email": "trinhdinhnam16898@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "monolog/monolog": "^1.24"
+    }
+}
